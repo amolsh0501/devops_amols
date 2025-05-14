@@ -1,2 +1,4 @@
-Name : Amol
-Profession : Devops Engineer
+Name : Amol Shende
+Profession : DevOps Engineer
+Education : Master's Degree
+Skills : Linux, Windows, AWS, Docker
